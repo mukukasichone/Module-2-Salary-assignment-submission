@@ -30,3 +30,5 @@ salary_analysis.ipynb
 Salaries.csv
 employee_profile.zip
 unzip_employee_data.R
+
+The dataset (Salaries.csv) is not included due to file size limits.
